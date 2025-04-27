@@ -1,0 +1,9 @@
+.contact-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .no-contacts {
+    color: #888;
+    font-style: italic;
+  }
